@@ -72,6 +72,9 @@ hi DiffDelete   guibg=gray45         guifg=black    gui=none
 hi jsFuncCall     guifg=#87afff ctermfg=111
 hi jsObjectKey    guifg=#87afaf ctermfg=109
 hi jsFunctionKey  guifg=#afd7ff ctermfg=153
+hi jsModules      guifg=#8787af ctermfg=103
+hi jsModuleWords  guifg=#8787af ctermfg=103
+hi jsDecorator    guifg=#5f5f87 ctermfg=60
 
 hi pythonOperator guifg=#7e8aa2 gui=none ctermfg=103
 
